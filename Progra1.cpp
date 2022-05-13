@@ -1,3 +1,6 @@
+/*
+UNIVERSIDAD UMG
+*/
 #include<iostream>
 #include<conio.h>
 
